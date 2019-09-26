@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ReverseString</string>
+    <string name="text_hint">Enter Text...</string>
+    <string name="revere_string">Revere String</string>
+</resources>
