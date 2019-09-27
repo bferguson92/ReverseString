@@ -26,5 +26,4 @@ sp, dp, px, pt, in, mm
 		-Set the size in pixels based on the size of the screen that the app is being run on.
     
 This app takes a string and put the reverse of it into a textView.
-<img src="https://github.com/bferguson92/ReverseString/blob/master/Screen%20Shot%202019-09-26%20at%2010.09.56%20PM.png?=250x
-" width="100" height="100">
+<img src="https://github.com/bferguson92/ReverseString/blob/master/Screen%20Shot%202019-09-26%20at%2010.09.56%20PM.png?raw=true" width="100px" height="100px">
