@@ -14,15 +14,15 @@ class MainActivity : AppCompatActivity() {
 
     fun onClick(view: View){
         when(view.id){
-            R.id.btnReverse -> showReversedString();
+            R.id.btnReverse -> showReversedString()
         }
     }
 
     fun showReversedString(){
-        var str = etString.text.toString();
+        var str = etString.text.toString()
         str = str.reversed()
 
-        tvReversedString.text = str;
+        tvReversedString.text = str
     }
 
 }
