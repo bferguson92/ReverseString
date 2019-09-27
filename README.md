@@ -25,6 +25,6 @@ sp, dp, px, pt, in, mm
 	dp - density pixels
 		-Set the size in pixels based on the size of the screen that the app is being run on.
     
-This app takes a string and put the reverse of it into a textView.
+This app takes a string and puts the reverse of it into a textView.
 <br>
-<img src="https://github.com/bferguson92/ReverseString/blob/master/Screen%20Shot%202019-09-26%20at%2010.09.56%20PM.png?raw=true" width="200px" height="300px">
+<img src="https://github.com/bferguson92/ReverseString/blob/master/Screen%20Shot%202019-09-26%20at%2010.09.56%20PM.png?raw=true" width="300px" height="500px">
