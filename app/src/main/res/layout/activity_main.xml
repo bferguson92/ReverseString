@@ -27,7 +27,7 @@
         app:layout_constraintTop_toBottomOf="@id/btnReverse"
         android:textColor="#1C448A"
         android:alpha="0.5"
-        android:textSize="24dp"/>
+        android:textSize="24sp"/>
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
